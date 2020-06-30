@@ -1,1 +1,1 @@
-# flask-project-structure
+# Flask-RESTful Project Structure
