@@ -1,0 +1,4 @@
+Flask==1.0.2
+Flask_RESTful==0.3.8
+PyMySQL==0.9.3
+Flask_Testing==0.8.0
