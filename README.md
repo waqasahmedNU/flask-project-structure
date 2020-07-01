@@ -8,5 +8,5 @@ Simple Flask RESTful project structure with example API and example test cases u
 (https://github.com/bndr/pipreqs).
 
 # Documentation
-Further documentation and user guide [here](https://flask-restful.readthedocs.io/)
+Further documentation and user guide [here](https://flask-restful.readthedocs.io/en/latest/)
 
